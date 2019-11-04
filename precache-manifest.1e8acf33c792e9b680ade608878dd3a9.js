@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e0a0324eeca6c78a0901",
-    "url": "/css/app.2d1b8a1c.css"
+    "revision": "72b894758404518b8b4b",
+    "url": "/css/app.66ed34df.css"
   },
   {
-    "revision": "659088bba6bcefb462f8",
-    "url": "/css/chunk-vendors.1366379e.css"
+    "revision": "619bb71233dbf4434293",
+    "url": "/css/chunk-vendors.47467cbe.css"
   },
   {
     "revision": "f7dde86ba0b04810786b252afa0fb948",
@@ -24,16 +24,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/projects/sebraevarejodigital.png"
   },
   {
-    "revision": "937ff62a5a70ab54195d01701efed43b",
+    "revision": "93c0c8512426221c7e05d8bcf5949ae5",
     "url": "/index.html"
   },
   {
-    "revision": "e0a0324eeca6c78a0901",
-    "url": "/js/app.5c10476c.js"
+    "revision": "72b894758404518b8b4b",
+    "url": "/js/app.731095f2.js"
   },
   {
-    "revision": "659088bba6bcefb462f8",
-    "url": "/js/chunk-vendors.a63cdfff.js"
+    "revision": "619bb71233dbf4434293",
+    "url": "/js/chunk-vendors.4b11e245.js"
   },
   {
     "revision": "59c6da6785dfb92311a13a1c4ec128aa",
