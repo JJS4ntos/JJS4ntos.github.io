@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.1e8acf33c792e9b680ade608878dd3a9.js"
+  "/precache-manifest.78942069a4050005092565e225bd12cb.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "jjs4ntos"});

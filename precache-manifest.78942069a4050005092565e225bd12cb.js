@@ -1,11 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "72b894758404518b8b4b",
-    "url": "/css/app.66ed34df.css"
+    "revision": "6f6ca9ddf6f94d9a9241",
+    "url": "/css/app.932dcc84.css"
   },
   {
-    "revision": "619bb71233dbf4434293",
-    "url": "/css/chunk-vendors.47467cbe.css"
+    "revision": "659088bba6bcefb462f8",
+    "url": "/css/chunk-vendors.1366379e.css"
+  },
+  {
+    "revision": "f9ba1c89a703d2fd8b5089e641d4759c",
+    "url": "/img/cool-background.png"
+  },
+  {
+    "revision": "384bbf0485e39436cad2ed750342e020",
+    "url": "/img/perfil.jpeg"
   },
   {
     "revision": "f7dde86ba0b04810786b252afa0fb948",
@@ -24,16 +32,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/projects/sebraevarejodigital.png"
   },
   {
-    "revision": "93c0c8512426221c7e05d8bcf5949ae5",
+    "revision": "2d20a1bd46e36487b81539aa88d1098f",
     "url": "/index.html"
   },
   {
-    "revision": "72b894758404518b8b4b",
-    "url": "/js/app.731095f2.js"
+    "revision": "6f6ca9ddf6f94d9a9241",
+    "url": "/js/app.d0a3e6ca.js"
   },
   {
-    "revision": "619bb71233dbf4434293",
-    "url": "/js/chunk-vendors.4b11e245.js"
+    "revision": "659088bba6bcefb462f8",
+    "url": "/js/chunk-vendors.a63cdfff.js"
   },
   {
     "revision": "59c6da6785dfb92311a13a1c4ec128aa",
